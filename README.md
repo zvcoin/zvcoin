@@ -1,3 +1,3 @@
-FooCoin (FOO)
+ZvCoin (ZVC)
 
 Blah, blah, blah.
